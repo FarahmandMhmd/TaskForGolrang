@@ -17,6 +17,18 @@ builder.Services.AddMediatR(typeof(UserRegisterCammnad).GetTypeInfo().Assembly);
 builder.Services.AddScoped<IUserRepository, UserRepository>();
 builder.Services.AddDbContext<DatabaseContext>();
 
+#region AddCors
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("CorsPolicy",
+        builder => builder.AllowAnyOrigin()
+            .AllowAnyMethod()
+            .AllowAnyHeader());
+});
+#endregion
+
+
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -27,7 +39,8 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
-
+app.UseCors("CorsPolicy");
+app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapControllers();
