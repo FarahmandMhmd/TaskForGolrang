@@ -1,0 +1,12 @@
+E:\Applications\Golrang\src\Portal.Domain\bin\Debug\net6.0\Portal.Domain.deps.json
+E:\Applications\Golrang\src\Portal.Domain\bin\Debug\net6.0\Portal.Domain.dll
+E:\Applications\Golrang\src\Portal.Domain\bin\Debug\net6.0\Portal.Domain.pdb
+E:\Applications\Golrang\src\Portal.Domain\obj\Debug\net6.0\Portal.Domain.csproj.AssemblyReference.cache
+E:\Applications\Golrang\src\Portal.Domain\obj\Debug\net6.0\Portal.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Applications\Golrang\src\Portal.Domain\obj\Debug\net6.0\Portal.Domain.AssemblyInfoInputs.cache
+E:\Applications\Golrang\src\Portal.Domain\obj\Debug\net6.0\Portal.Domain.AssemblyInfo.cs
+E:\Applications\Golrang\src\Portal.Domain\obj\Debug\net6.0\Portal.Domain.csproj.CoreCompileInputs.cache
+E:\Applications\Golrang\src\Portal.Domain\obj\Debug\net6.0\Portal.Domain.dll
+E:\Applications\Golrang\src\Portal.Domain\obj\Debug\net6.0\refint\Portal.Domain.dll
+E:\Applications\Golrang\src\Portal.Domain\obj\Debug\net6.0\Portal.Domain.pdb
+E:\Applications\Golrang\src\Portal.Domain\obj\Debug\net6.0\ref\Portal.Domain.dll

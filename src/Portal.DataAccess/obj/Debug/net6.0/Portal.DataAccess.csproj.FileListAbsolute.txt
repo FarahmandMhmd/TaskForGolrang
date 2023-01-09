@@ -1,0 +1,17 @@
+E:\Applications\Golrang\src\Portal.DataAccess\bin\Debug\net6.0\Portal.DataAccess.deps.json
+E:\Applications\Golrang\src\Portal.DataAccess\bin\Debug\net6.0\Portal.DataAccess.runtimeconfig.json
+E:\Applications\Golrang\src\Portal.DataAccess\bin\Debug\net6.0\Portal.DataAccess.dll
+E:\Applications\Golrang\src\Portal.DataAccess\bin\Debug\net6.0\Portal.DataAccess.pdb
+E:\Applications\Golrang\src\Portal.DataAccess\bin\Debug\net6.0\Portal.Domain.dll
+E:\Applications\Golrang\src\Portal.DataAccess\bin\Debug\net6.0\Portal.Domain.pdb
+E:\Applications\Golrang\src\Portal.DataAccess\obj\Debug\net6.0\Portal.DataAccess.csproj.AssemblyReference.cache
+E:\Applications\Golrang\src\Portal.DataAccess\obj\Debug\net6.0\Portal.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\Applications\Golrang\src\Portal.DataAccess\obj\Debug\net6.0\Portal.DataAccess.AssemblyInfoInputs.cache
+E:\Applications\Golrang\src\Portal.DataAccess\obj\Debug\net6.0\Portal.DataAccess.AssemblyInfo.cs
+E:\Applications\Golrang\src\Portal.DataAccess\obj\Debug\net6.0\Portal.DataAccess.csproj.CoreCompileInputs.cache
+E:\Applications\Golrang\src\Portal.DataAccess\obj\Debug\net6.0\Portal.DataAccess.csproj.CopyComplete
+E:\Applications\Golrang\src\Portal.DataAccess\obj\Debug\net6.0\Portal.DataAccess.dll
+E:\Applications\Golrang\src\Portal.DataAccess\obj\Debug\net6.0\refint\Portal.DataAccess.dll
+E:\Applications\Golrang\src\Portal.DataAccess\obj\Debug\net6.0\Portal.DataAccess.pdb
+E:\Applications\Golrang\src\Portal.DataAccess\obj\Debug\net6.0\Portal.DataAccess.genruntimeconfig.cache
+E:\Applications\Golrang\src\Portal.DataAccess\obj\Debug\net6.0\ref\Portal.DataAccess.dll
